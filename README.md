@@ -1,2 +1,2 @@
 # Contact-App
-Aplikasi kontak yang dapat menambah, menghapus mencari kontak dengan React Router dan penerapan SPA - CSS by Dicoding
+Aplikasi kontak dengan React Router SPA, Path & Query Param | fitur login - register - logout, menambah, menghapus mencari kontak  dengan API Dicoding - CSS by Dicoding
